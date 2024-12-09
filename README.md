@@ -1,6 +1,6 @@
 # 👋 Oii, eu sou a Ana 
 
-Sou Desenvolvedora Front-end e estudante de Design Gráfico.
+Sou Desenvolvedora Front-end e desinger
 
 ## Ferramentas
 
